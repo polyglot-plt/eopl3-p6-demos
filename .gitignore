@@ -1,0 +1,6 @@
+*.rakudo
+*.rakudo.jvm
+*.rakudo.parrot
+*.rakudo.moar
+*.niecza
+.precomp

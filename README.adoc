@@ -1,0 +1,3 @@
+# Essentials of Programming Languages (3rd Ed) Perl 6 solutions
+
+Trying to update the code of this great book using Perl 6.
